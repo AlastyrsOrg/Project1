@@ -36,6 +36,8 @@ form {
 	max-width: 400px;
 	padding: 5px;
 	background: #ed905a;
+	border: 3px dashed black;
+	border-radius: 5px;
 }
 
 label {
