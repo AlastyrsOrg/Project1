@@ -1,7 +1,5 @@
-/* main text */
-body {
-	font-family: Impact, Haettenshweiler, sans-serif;
-	background-color: rgb(255, 153, 153);
+html {
+	line-height: 1.25rem;
 }
 
 img {
@@ -9,3 +7,23 @@ img {
 	margin: auto;
 	height: 6rem;
 }
+
+/* main text */
+body {
+	font-family: Impact, Haettenshweiler, sans-serif;
+	background-color: rgb(255, 153, 153);
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.625rem;
+}
+
+p {
+	font-size: 1.125rem;
+}
+
+/* form */
