@@ -3,3 +3,9 @@ body {
 	font-family: Impact, Haettenshweiler, sans-serif;
 	background-color: rgb(255, 153, 153);
 }
+
+img {
+	display: flex;
+	margin: auto;
+	height: 6rem;
+}
