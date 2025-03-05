@@ -35,3 +35,12 @@ form {
 	padding: 5px;
 }
 
+label {
+	font-size: 1.325rem;
+	display: block;
+	text-align: center;
+}
+
+input, select, button {
+	width: 100%
+}
