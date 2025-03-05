@@ -10,6 +10,9 @@ html {
 
 /* main text */
 body {
+	background: url("../images/background.png") center center fixed;
+	background-size: cover;
+	background-repeat: no repeat;
 	font-family: Impact, Haettenshweiler, sans-serif;
 }
 
@@ -32,6 +35,7 @@ form {
 	margin: auto;
 	max-width: 400px;
 	padding: 5px;
+	background: #ed905a;
 }
 
 label {
@@ -41,7 +45,7 @@ label {
 }
 
 input, select, button {
-	width: 100%;
+	width: 97%;
 	padding: 5px;
 	border: 1px solid black;
 	border-radius: 5px;
