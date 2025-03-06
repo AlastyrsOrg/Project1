@@ -12,7 +12,6 @@ html {
 body {
 	background: url("../images/background.png") center center fixed;
 	background-size: cover;
-	background-repeat: no repeat;
 	font-family: Impact, Haettenshweiler, sans-serif;
 }
 
@@ -44,6 +43,7 @@ label {
 	font-size: 1.325rem;
 	display: block;
 	text-align: center;
+	padding: 3px;
 }
 
 input, select, button {
@@ -51,4 +51,13 @@ input, select, button {
 	padding: 5px;
 	border: 1px solid black;
 	border-radius: 5px;
+}
+
+/* main body*/
+#main {
+	border: 3px dashed black;
+	background: #ed905a;
+	padding: 5px;
+	margin: auto;
+	margin-bottom: 10px;
 }
