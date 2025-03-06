@@ -73,7 +73,7 @@ input, select, button {
 }
 
 /* media queries */
-@media (min-width: 480px;) {
+@media (min-width: 480px) {
 	form {
 		max-width: 90%;
 		padding: 10px;
