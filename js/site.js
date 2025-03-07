@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const audio = new Audio("audio/sound.mp3");
 
     button.addEventListener("click", function (event) {
-        event.preventDefault();
-        audio.play();
+      event.preventDefault();
+      audio.play();
     });
 });
 
