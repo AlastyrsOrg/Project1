@@ -1,33 +1,33 @@
 html {
-	line-height: 1.25rem;
+  line-height: 1.25rem;
 }
 
 #logo {
-	display: flex;
-	margin: auto;
-	height: 6rem;
+  display: flex;
+  margin: auto;
+  height: 6rem;
 }
 
 /* main text */
 body {
-	background: url("../images/background.png") center center fixed;
-	background-size: cover;
-	font-family: Impact, Haettenshweiler, sans-serif;
+  background: url("../images/background.png") center center fixed;
+  background-size: cover;
+  font-family: Impact, Haettenshweiler, sans-serif;
 }
 
 h2 {
-	font-size: 2rem;
-	padding: 1.5rem;
+  font-size: 2rem;
+  padding: 1.5rem;
 }
 
 h3 {
-	font-size: 1.625rem;
-	text-align: center;
-	padding-top: 25px;
+  font-size: 1.625rem;
+  text-align: center;
+  padding-top: 25px;
 }
 
 p {
-	font-size: 1.125rem;
+  font-size: 1.125rem;
 }
 
 /* form */
